@@ -1,7 +1,7 @@
 // selezionare menu hamburger
 var hamburgerMenu = $(".hamburger-menu");
 var hamburgerOpen = $(".header-right > a");
-var hamburgerClose = $(".hamburger-menu > li");
+var hamburgerClose = $(".hamburger-menu > a");
 
 //  .click per attivare l'evento al click
 hamburgerOpen.click(
